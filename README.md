@@ -11,7 +11,9 @@ as I progress through structured programming courses.
 
 ## 🛠️ Tools Used
 - Visual Studio Community 2022
-- C++17
+
 
 ## 📁 Structure
 Each folder contains solutions grouped by topic or problem range.
+
+Each Problem idea is written inside the cpp file before answering. 
