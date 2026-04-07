@@ -1,6 +1,6 @@
 # 5- Algorithms & Problem-Solving - Level 2
 
-# 🚀 C++ Learning Journey — Mohamed Hosam
+# 🚀 C++ Learning Journey
 
 This repository contains my C++ practice problems and exercises
 as I progress through structured programming courses.
